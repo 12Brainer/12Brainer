@@ -1,5 +1,10 @@
 <h1 align="center">Hi , I'm Brainer Fallas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p>
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -10,7 +15,7 @@
 - ✨ Interested in **Time Series Forecasting, Computer Vision, and Coffee Analytics**  
 - 🌍 Based in **Costa Rica** | 💬 Speak **Spanish & English**  
 - 📬 Feel free to reach me on [LinkedIn](www.linkedin.com/in/brainer-fallas-prado) or by email `Pradofallasbrainer@gmail.com`  
-- 🤖 Always believe: *“Data can create smarter and more sustainable solutions.”*  
+- 🤖 Always believe: *“Data can create smarter and more sustainable solutions.”*
 
 <br>
 
@@ -59,3 +64,4 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
 
 <br>
+
